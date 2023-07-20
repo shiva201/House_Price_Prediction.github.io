@@ -2,7 +2,7 @@
 
 https://github.com/shiva201/House_Price_Prediction.github..io.git
 
-# House_Price_Prediction.github..io
+# House_Price_Prediction.github.io
 
 House price prediction is a type of machine learning task that aims to estimate the selling price of a residential property based on various features or attributes associated with the house. This predictive analysis is commonly employed in the real estate industry to help homeowners, buyers, sellers, and investors make informed decisions about property transactions.
 
